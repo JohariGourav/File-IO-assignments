@@ -1,0 +1,4 @@
+this is file handling example 
+sample text
+to count the no. 
+of lines
